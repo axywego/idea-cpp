@@ -23,6 +23,6 @@ C++ implementation of the IDEA block cipher algorithm
 ```
 
 ## Building result 
- - **key_gen.exe** - Generates a 128-bit key saves it to the key.bin.
+ - **key_gen.exe** - Generates a 128-bit key and saves it to the key.bin.
  - **encrypt.exe** - Encrypts the file with the key from key.bin and saves the encryption to another file.
  - **decrypt.exe** - Decrypts a file using a key from key.bin and saves the result to another file.
