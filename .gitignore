@@ -2,6 +2,6 @@ decrypt.exe
 encrypt.exe
 key_gen.exe
 input.txt
-enc.txt
+enc.bin
 output.txt
 key.bin
